@@ -14,7 +14,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 	private final int[] mImageRes = {R.drawable.a1, R.drawable.a2, R.drawable.a3, R.drawable.a4, R.drawable.a5};
 	private Context context;	// 上下文
-	private MyViewPager mMyViewPager;	// 自定义Viewpager
+	private MyViewPager mMyViewPager;	// 自定义Viewpager 
 	private RadioGroup mPointSetRgp;	// 點集合
 	
     @Override
